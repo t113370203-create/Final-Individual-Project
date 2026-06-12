@@ -1,4 +1,4 @@
-# Physical Activity and BMI Percentile
+# Final Summary
 
 ## Research Question
 
@@ -6,29 +6,30 @@ Is there a significant relationship between physical activity and BMI percentile
 
 ## Variables
 
-- ExerciseDays
-- BMIPercentile
+- Explanatory Variable: ExerciseDays
+- Response Variable: BMIPercentile
 
 ## Data Cleaning
 
+- Selected PhysicalActivity5OrMoreDays and BMIPCT
 - Removed missing values
-- Recoded physical activity responses into 0–7 exercise days
-- Kept valid BMI percentile observations
+- Recoded exercise responses into 0–7 days
+- Removed invalid observations
+
+Final sample size:
+
+- n = 12,527
 
 ## Method
 
 Simple Linear Regression
 
-## Results
+Model:
 
-Three figures were generated:
+BMIPercentile = β₀ + β₁(ExerciseDays)
+
+## Figures
 
 1. Scatter Plot with Regression Line
 2. Average BMI Percentile by Exercise Days
 3. Mean BMI Percentile by Exercise Days
-
-The regression line appeared nearly flat.
-
-## Conclusion
-
-The relationship between physical activity and BMI percentile appears weak.
