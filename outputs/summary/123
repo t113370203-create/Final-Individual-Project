@@ -1,0 +1,25 @@
+┌─────────────────────────────┐
+│ Physical Activity and BMI   │
+├─────────────────────────────┤
+│ Research Question           │
+│ Does physical activity      │
+│ affect BMI percentile?      │
+├─────────────┬───────────────┤
+│ Variables   │ Method        │
+│ ExerciseDays│ Regression    │
+│ BMIPCT      │               │
+├─────────────┴───────────────┤
+│ Key Results                 │
+│ n = 12,527                  │
+│ p-value = 0.145             │
+│ R² = 0.000                  │
+│ Coef = -0.1393              │
+├─────────────────────────────┤
+│ Scatter Plot                │
+│ (放你的 scatter_plot_bmi)    │
+├─────────────────────────────┤
+│ Conclusion                  │
+│ No significant relationship │
+│ was found between physical  │
+│ activity and BMI percentile │
+└─────────────────────────────┘
