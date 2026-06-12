@@ -1,22 +1,31 @@
-Research Question
+# One-Page Infographic Draft
+
+## Research Question
 
 Does physical activity affect BMI percentile?
 
-Variables
+## Variables
 
-- Exercise Days
+- Exercise Days (0–7 days)
 - BMI Percentile
 
-Method
+## Method
 
 Simple Linear Regression
 
-Key Findings
+## Key Findings
 
-- Regression line was nearly flat.
-- Average BMI percentile changed very little across exercise levels.
-- The relationship appeared weak.
+- Sample Size: 12,527
+- Regression Coefficient: -0.1393
+- p-value: 0.145
+- R-squared: 0.000
 
-Conclusion
+## Interpretation
 
-Physical activity alone was not strongly associated with BMI percentile.
+Students who exercised more frequently tended to have slightly lower BMI percentile values.
+
+However, the relationship was not statistically significant.
+
+## Conclusion
+
+Physical activity was not significantly associated with BMI percentile in this dataset.
