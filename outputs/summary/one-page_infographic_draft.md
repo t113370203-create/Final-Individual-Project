@@ -31,9 +31,9 @@ N = 12,527
 | R² | 0.00 |
 | p-value | 0.145 |
 
-## Figures
+## Interpretation
 
-(放三張圖)
+Students who exercised more frequently tended to have slightly lower BMI percentile values. However, the relationship was extremely weak and not statistically significant.
 
 ## Conclusion
 
