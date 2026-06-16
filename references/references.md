@@ -1,13 +1,10 @@
 # References
+# References
 
-1. Centers for Disease Control and Prevention (CDC). Youth Risk Behavior Surveillance System (YRBS) 2007. https://www.cdc.gov/yrbs
+1. Centers for Disease Control and Prevention (CDC). Youth Risk Behavior Surveillance System (YRBSS). https://www.cdc.gov/yrbs
 
-2. Centers for Disease Control and Prevention (CDC). About Child and Teen BMI. https://www.cdc.gov/bmi/child-teen-calculator
+2. Centers for Disease Control and Prevention (CDC). 2007 Youth Risk Behavior Survey Data Documentation. https://www.cdc.gov/healthyyouth/data/yrbs
 
-3. Pandas Documentation. https://pandas.pydata.org/docs/
+3. World Health Organization (WHO). Body Mass Index (BMI). https://www.who.int
 
-4. SciPy Documentation. https://docs.scipy.org/doc/scipy/
-
-5. Matplotlib Documentation. https://matplotlib.org/
-
-6. ChatGPT (OpenAI). https://chatgpt.com
+4. Freedman, D. S., Khan, L. K., Serdula, M. K., Dietz, W. H., Srinivasan, S. R., & Berenson, G. S. (2005). The relation of childhood BMI to adult adiposity. Pediatrics, 115(1), 22–27.
