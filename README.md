@@ -17,12 +17,12 @@ This project uses data from the Youth Risk Behavior Survey (YRBS) 2007.
 ## Variables
 
 ### Independent Variable
-- ExerciseDays
-- Number of days with physical activity in the past week (0–7 days)
+
+- ExerciseDays (Number of Physical Activity Days)
 
 ### Dependent Variable
-- BMIPCT
-- BMI Percentile
+
+- BMIPCT (BMI Percentile)
 
 ---
 
