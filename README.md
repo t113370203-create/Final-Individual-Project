@@ -1,7 +1,6 @@
 # Final-Individual-Project
 工管二乙 113370203 吳佳虹
 # Physical Activity and BMI Percentile
-# Physical Activity vs BMI Percentile
 
 ## Research Question
 
