@@ -34,8 +34,12 @@ BMIPercentile = β₀ + β₁(ExerciseDays)
 2. Average BMI Percentile by Exercise Days
 3. Mean BMI Percentile by Exercise Days
 
-## Summary
+## Extended Analysis
 
-This study examined the relationship between physical activity and BMI percentile among adolescents using YRBS 2007 data.
+Gender was included as an additional variable to further explore BMI percentile differences among adolescents.
 
-The primary analysis investigated whether exercise frequency was associated with BMI percentile through correlation and regression analyses.
+A boxplot comparing BMI percentile across exercise-day categories showed that male students generally had slightly higher BMI percentile values than female students.
+
+These findings suggest that gender may influence BMI percentile and should be considered when examining the relationship between physical activity and BMI percentile.
+
+
