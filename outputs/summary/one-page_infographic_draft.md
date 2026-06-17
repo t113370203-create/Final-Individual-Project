@@ -17,8 +17,11 @@ N = 12,527
 
 ## Methods
 • Descriptive Statistics
+
 • Correlation Analysis
+
 • Linear Regression
+
 • Gender Comparison Analysis
 
 ## Key Results
