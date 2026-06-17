@@ -29,3 +29,9 @@ No significant relationship was found between physical activity and BMI percenti
 Although the regression coefficient was negative, the effect size was very small and the model explained almost none of the variation in BMI percentile.
 
 Physical activity alone does not appear to be a strong predictor of BMI percentile in this dataset.
+
+## Extended Interpretation
+
+The gender-based analysis indicated that BMI percentile distributions differed slightly between males and females.
+
+Although physical activity showed little predictive power, gender appeared to contribute to variation in BMI percentile and may be an important factor for future analyses.
