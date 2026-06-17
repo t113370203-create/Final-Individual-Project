@@ -8,6 +8,7 @@ Does physical activity affect BMI percentile among high school students?
 | Variable | Type |
 |-----------|-----------|
 | Exercise Days | Independent |
+| Gender | Independent |
 | BMI Percentile | Dependent |
 
 ## Sample
@@ -37,4 +38,8 @@ Students who exercised more frequently tended to have slightly lower BMI percent
 
 ## Conclusion
 
-No significant relationship was found between physical activity and BMI percentile.
+• No significant relationship was found between physical activity and BMI percentile.
+
+• Gender differences were observed in BMI percentile distributions.
+
+• Gender may influence the relationship between physical activity and BMI percentile.
