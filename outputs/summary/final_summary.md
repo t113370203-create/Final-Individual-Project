@@ -33,3 +33,9 @@ BMIPercentile = β₀ + β₁(ExerciseDays)
 1. Scatter Plot with Regression Line
 2. Average BMI Percentile by Exercise Days
 3. Mean BMI Percentile by Exercise Days
+
+## Summary
+
+This study examined the relationship between physical activity and BMI percentile among adolescents using YRBS 2007 data.
+
+The primary analysis investigated whether exercise frequency was associated with BMI percentile through correlation and regression analyses.
