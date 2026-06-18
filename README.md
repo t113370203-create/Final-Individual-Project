@@ -1,6 +1,5 @@
-# Final-Individual-Project
+# Final-Individual-Project：Physical Activity and BMI Percentile
 工管二乙 113370203 吳佳虹
-# Physical Activity and BMI Percentile
 
 ## Presentation video
 https://youtu.be/lYAeoyPQXVQ
@@ -12,7 +11,7 @@ Does physical activity affect BMI percentile among high school students?
 
 ## Dataset
 
-This project uses "YRBS 2007.cvs" dataset
+This project uses 'YRBS_2007.cvs' dataset
 
 ---
 
