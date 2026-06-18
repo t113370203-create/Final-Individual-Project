@@ -12,7 +12,7 @@ Does physical activity affect BMI percentile among high school students?
 
 ## Dataset
 
-This project uses data from the Youth Risk Behavior Survey (YRBS) 2007.
+This project uses "YRBS 2007.cvs" dataset
 
 ---
 
