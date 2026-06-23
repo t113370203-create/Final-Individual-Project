@@ -111,7 +111,7 @@ Based on the analysis, physical activity days did not show a significant relatio
 - Presentation Video
 
 
-### Scatter Plot
+## BMI Percentile by Exercise Days and Gender
 
-![Scatter Plot](outputs/figures/scatter_plot_bmi.png)
+![BMI Percentile by Exercise Days and Gender](images/BMI_by_Exercise_and_Gender.png)
 
