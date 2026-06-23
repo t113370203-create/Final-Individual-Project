@@ -81,7 +81,9 @@ The following methods were used:
 - Slope: -0.14
 - R²: 0.0002
 - p-value: 0.145
+## Regression Equation
 
+- BMI Percentile = 65.2935 − 0.1393 × ExerciseDays
 ---
 
 ## Interpretation
@@ -89,6 +91,9 @@ The following methods were used:
 The correlation between physical activity and BMI percentile was very weak and negative. The p-value was greater than 0.05, indicating that the relationship was not statistically significant.
 
 ---
+## Discussion
+
+Although a negative relationship was observed, the effect size was extremely small. Physical activity alone may not be sufficient to explain differences in BMI percentile among adolescents. Other factors such as diet, genetics, and lifestyle may play a more important role.
 
 ## Conclusion
 
