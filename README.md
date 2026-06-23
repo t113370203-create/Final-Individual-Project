@@ -16,7 +16,11 @@ Does physical activity affect BMI percentile among high school students?
 
 ## Dataset
 
-This project uses 'YRBS_2007.cvs' dataset
+This project uses data from the Youth Risk Behavior Survey (YRBS) 2007.
+
+Original observations: 14,041
+
+Final sample size after cleaning: 12,527
 
 ---
 
@@ -24,11 +28,15 @@ This project uses 'YRBS_2007.cvs' dataset
 
 ### Independent Variable
 
-- ExerciseDays (Number of Physical Activity Days)
+• ExerciseDays
+  Number of physical activity days (0–7)
+
+•Gender
+  Male / Female (Extended Analysis)
 
 ### Dependent Variable
-
-- BMIPCT (BMI Percentile)
+• BMIPCT
+  BMI Percentile (%)
 
 ---
 
@@ -71,7 +79,7 @@ The following methods were used:
 
 - Intercept: 65.29
 - Slope: -0.14
-- R²: 0.00
+- R²: 0.0002
 - p-value: 0.145
 
 ---
