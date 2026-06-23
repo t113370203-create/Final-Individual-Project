@@ -1,5 +1,7 @@
 # Final-Individual-Project：Physical Activity and BMI Percentile
-工管二乙 113370203 吳佳虹
+# Student Information 
+Name：吳佳虹
+Student ID：113370203
 
 ## Projet Repository
 https://github.com/t113370203-create/Final-Individual-Project
