@@ -110,8 +110,7 @@ Based on the analysis, physical activity days did not show a significant relatio
 - One-page Infographic
 - Presentation Video
 
-
 ## BMI Percentile by Exercise Days and Gender
 
-[BMI Percentile by Exercise Days and Gender](images/BMI_by_Exercise_and_Gender.png)
+![BMI Percentile by Exercise Days and Gender](images/BMI_by_Exercise_and_Gender.png)
 
