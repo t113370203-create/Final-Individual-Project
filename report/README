@@ -1,0 +1,133 @@
+# Physical Activity & BMI Percentile
+
+## Student Information
+
+Name: 吳佳虹
+
+Student ID: 113370203
+
+---
+
+## Research Question
+
+Does physical activity affect BMI percentile among high school students?
+
+This project investigates whether the number of exercise days is associated with BMI percentile among adolescents using the Youth Risk Behavior Survey (YRBS) dataset.
+
+---
+
+## Dataset
+
+Source: Youth Risk Behavior Survey (YRBS)
+
+Sample Size: 12,527 students
+
+After data cleaning, observations with missing or invalid values were removed.
+
+---
+
+## Variables
+
+### Independent Variables
+
+- Exercise Days (0–7 days)
+- Gender (Male/Female)
+
+### Dependent Variable
+
+- BMI Percentile (%)
+
+---
+
+## Data Cleaning
+
+The following steps were performed:
+
+1. Removed missing values
+2. Removed invalid BMI percentile values
+3. Converted exercise frequency into numeric values (0–7)
+4. Prepared gender variable for extended analysis
+
+Cleaned dataset:
+
+`PhysicalActivity_BMI_Cleaned.csv`
+
+---
+
+## Statistical Methods
+
+### Descriptive Statistics
+
+Summary statistics were calculated for all variables.
+
+### Correlation Analysis
+
+Pearson correlation coefficient was used to examine the relationship between exercise days and BMI percentile.
+
+### Linear Regression
+
+Model:
+
+BMI Percentile = β₀ + β₁(Exercise Days)
+
+### Extended Analysis
+
+Gender comparison analysis was conducted using grouped visualizations.
+
+---
+
+## Key Results
+
+| Statistic | Value |
+|------------|---------|
+| Sample Size (n) | 12,527 |
+| Correlation (r) | -0.013 |
+| R² | 0.0002 |
+| Slope | -0.14 |
+| P-value | 0.145 |
+
+Regression Equation:
+
+BMI Percentile = 65.2935 − 0.1393 × Exercise Days
+
+---
+
+## Visualizations
+
+### Average BMI Percentile by Exercise Days
+
+![Exercise BMI](images/exercise_bmi.png)
+
+### BMI Percentile by Exercise Days and Gender
+
+![Gender BMI](images/gender_boxplot.png)
+
+---
+
+## Interpretation
+
+- Students who exercised more frequently tended to have slightly lower BMI percentile values.
+- The observed relationship was extremely weak.
+- The association was not statistically significant.
+- Small gender differences were observed across BMI percentile distributions.
+
+---
+
+## Conclusion
+
+No significant relationship was found between physical activity and BMI percentile.
+
+Although students who exercised more tended to have slightly lower BMI percentile values, exercise frequency explained almost none of the variation in BMI percentile. Gender differences were observed and may influence this relationship.
+
+---
+
+## Project Files
+
+| File | Description |
+|--------|------------|
+| notebook.ipynb | Full analysis |
+| PhysicalActivity_BMI_Cleaned.csv | Cleaned dataset |
+| images/ | Figures |
+| one-page_infographic.pdf | Project summary |
+| README.md | Project documentation |
+
